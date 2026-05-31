@@ -49,7 +49,7 @@ export function Navbar() {
               <Palette className="w-6 h-6 text-white" />
             </motion.div>
             <span className="text-xl font-bold text-white group-hover:text-amber-400 transition-colors">
-              Artistry
+              Amaya_Tasha
             </span>
           </Link>
 
