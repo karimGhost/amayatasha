@@ -8,7 +8,7 @@ export const artistInfo: ArtistInfo = {
   style: 'My style combines classical techniques with contemporary sensibilities. I embrace both the precision of digital tools and the organic flow of traditional media, creating pieces that feel both timeless and modern.',
   inspiration: 'Nature\'s endless patterns, urban architecture, human emotions, and the interplay of light and shadow inspire my work. Each piece is a meditation on the beauty found in everyday moments.',
   skills: ['Oil Painting', 'Digital Art', 'Mixed Media', 'Illustration', 'Conceptual Art', 'Photography'],
-  profileImage: '/public/amaya.1575c76baab6d1fd1815.png',
+  profileImage: 'amaya.1575c76baab6d1fd1815.png',
   email: 'SumeyaKassim@gmail.com',
   phone: '+254702961319',
   instagram: 'https://instagram.com/amaya_tasha',
