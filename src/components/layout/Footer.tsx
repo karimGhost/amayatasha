@@ -17,7 +17,7 @@ export function Footer() {
               <div className="p-2 bg-gradient-to-br from-amber-500 to-orange-500 rounded-xl shadow-lg shadow-amber-500/20">
                 <Palette className="w-6 h-6 text-white" />
               </div>
-              <span className="text-xl font-bold text-white">Artistry</span>
+              <span className="text-xl font-bold text-white">AmayaTasha</span>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed">
               {artistInfo.bio}

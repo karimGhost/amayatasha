@@ -10,7 +10,7 @@ const floatingShapes = [
   { size: 200, x: '70%', y: '10%', delay: 4, duration: 18 },
   { size: 250, x: '20%', y: '70%', delay: 1, duration: 22 },
 ];
-
+//amaya
 export function HomePage() {
   return (
     <div className="relative min-h-screen overflow-hidden">
@@ -79,7 +79,7 @@ export function HomePage() {
 
             <div className="flex flex-wrap gap-4">
               <Link to="/gallery">
-                <Button size="lg">
+                <Button className='ButtonClickflex' size="lg">
                   View Gallery
                   <ArrowRight className="w-5 h-5 ml-2" />
                 </Button>
@@ -213,8 +213,9 @@ export function HomePage() {
             viewport={{ once: true }}
             className="text-center mt-10"
           >
-            <Link to="/gallery">
-              <Button>
+            <Link  to="/gallery">
+              <Button className="ButtonClickflex">
+                
                 Explore All Work
                 <ArrowRight className="w-5 h-5 ml-2" />
               </Button>

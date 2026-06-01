@@ -245,7 +245,7 @@ export function ContactPage() {
                     </motion.p>
                   )}
 
-                  <Button type="submit" isLoading={loading} className="w-full">
+                  <Button type="submit" isLoading={loading} className="ButtonClickflex w-full">
                     <Send className="w-5 h-5 mr-2" />
                     Send Message
                   </Button>
